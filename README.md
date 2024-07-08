@@ -2,7 +2,7 @@
 
 <h2 align="center">:computer: Aplicación </h2>
 
-<p>Esta aplicación es una API REST utilizando Spring creada con la intención de tratar los datos para relacionar un tópico con una respuesta, o los usuarios con las respuestas de un tópico. Cuenta con varias funciones como: crear un nuevo tópico, mostrar todos los tópicos creados, mostrar un tópico específico, actualizar un tópico, y eliminar un tópico.
+<p>Esta aplicación es una API REST utilizando Spring creada con la intención de tratar los datos para relacionar un tópico con una respuesta de un foro, o los usuarios con las respuestas de un tópico. Cuenta con varias funciones como: crear un nuevo tópico, mostrar todos los tópicos creados, mostrar un tópico específico, actualizar un tópico, y eliminar un tópico.
 Cada topico es almacenado en una base de datos local la cual guarda información de id, título, mensaje, fecha de creación, status (estado del tópico), autor y curso.</p>
 
 
